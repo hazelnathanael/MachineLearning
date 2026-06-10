@@ -67,7 +67,7 @@ except Exception as e:
 
 st.markdown("""
 <div class="hero">
-<h1>🚦 Trackora Traffic Intelligence</h1>
+<h1>🚦 FlowSense - Traffic Intelligence Dashboard</h1>
 <h4>Machine Learning-Based Congestion Prediction for BINUS Alam Sutera</h4>
 
 Predict traffic conditions using Random Forest Classification.
@@ -358,7 +358,7 @@ st.divider()
 
 st.markdown("""
 <div class="footer">
-Trackora Traffic Intelligence Dashboard<br>
+FlowSense - Traffic Intelligence Dashboard<br>
 Machine Learning Project - BINUS University
 </div>
 """, unsafe_allow_html=True)
